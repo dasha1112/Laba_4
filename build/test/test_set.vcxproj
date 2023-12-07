@@ -172,7 +172,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Laba_alg\Laba_4\test\test_arrlist.cpp" />
     <ClCompile Include="D:\Laba_alg\Laba_4\test\test_listiterator.cpp" />
     <ClCompile Include="D:\Laba_alg\Laba_4\test\test_main.cpp" />
     <ClCompile Include="D:\Laba_alg\Laba_4\test\test_mylist.cpp" />

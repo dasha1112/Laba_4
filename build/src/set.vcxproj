@@ -148,11 +148,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Laba_alg\Laba_4\src\Arrlist.cpp" />
     <ClCompile Include="D:\Laba_alg\Laba_4\src\ListIterator.cpp" />
     <ClCompile Include="D:\Laba_alg\Laba_4\src\MyList.cpp" />
     <ClCompile Include="D:\Laba_alg\Laba_4\src\MyNode.cpp" />
-    <ClInclude Include="D:\Laba_alg\Laba_4\include\ArrList.h" />
     <ClInclude Include="D:\Laba_alg\Laba_4\include\ListIterator.h" />
     <ClInclude Include="D:\Laba_alg\Laba_4\include\MyList.h" />
     <ClInclude Include="D:\Laba_alg\Laba_4\include\MyNode.h" />
